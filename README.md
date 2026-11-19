@@ -41,7 +41,7 @@ notebooks/   verificação da base, etapas do projeto e notebook final
 src/         preparação, pipeline e métricas comuns
 data/        dataset final e dicionário de atributos
 resultados/  métricas de cada modelo e conjunto
-figuras/     gráficos
+figs/     gráficos
 docs/        relatório, slides e diagrama de integração
 ```
 
