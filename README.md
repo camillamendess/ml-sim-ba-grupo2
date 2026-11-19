@@ -53,6 +53,39 @@ docs/        relatório, slides e diagrama de integração
 
 ## Integrantes
 
-Camilla Novaes Mendes, Gabriel Marcone Magalhães Santos, Giovana Fortunato Costa Gomes, Ítalo de Souza Leão e Lucas de Menezes Chaves.
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/camillamendess">
+<img src="https://github.com/camillamendess.png" width="80" alt="Camilla Novaes Mendes"/><br/>
+<sub><b>Camilla Novaes Mendes</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/gabrielmarcone">
+<img src="https://github.com/gabrielmarcone.png" width="80" alt="Gabriel Marcone Magalhães Santos"/><br/>
+<sub><b>Gabriel Marcone Magalhães Santos</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/Giovana-Fortunato">
+<img src="https://github.com/Giovana-Fortunato.png" width="80" alt="Giovana Fortunato Costa Gomes"/><br/>
+<sub><b>Giovana Fortunato Costa Gomes</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/ItaloSLeao">
+<img src="https://github.com/ItaloSLeao.png" width="80" alt="Ítalo de Souza Leão"/><br/>
+<sub><b>Ítalo de Souza Leão</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/Bytt13">
+<img src="https://github.com/Bytt13.png" width="80" alt="Lucas de Menezes Chaves"/><br/>
+<sub><b>Lucas de Menezes Chaves</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 Prof. Geraldo Pereira Rocha Filho
