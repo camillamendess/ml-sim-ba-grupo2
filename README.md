@@ -41,8 +41,9 @@ notebooks/   verificação da base, etapas do projeto e notebook final
 src/         preparação, pipeline e métricas comuns
 data/        dataset final e dicionário de atributos
 resultados/  métricas de cada modelo e conjunto
-figs/     gráficos
+figs/        gráficos
 docs/        relatório, slides e diagrama de integração
+entregaveis/ subpastas com cada PC e seus entregáveis finais solicitados
 ```
 
 ## Como executar
