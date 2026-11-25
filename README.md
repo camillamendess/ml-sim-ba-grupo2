@@ -48,9 +48,8 @@ entregaveis/ subpastas com cada PC e seus entregáveis finais solicitados
 
 ## Como executar
 
-1. Abra o notebook final em `notebooks/` no Google Colab
+1. Baixe o notebook final em `notebooks/` e abra no Google Colab
 2. Execute as células em ordem; os arquivos .dbc são baixados e convertidos com `pyreaddbc`
-3. Bibliotecas e versões estão em `requirements.txt`; sementes fixadas em `random_state = 42`
 
 ## Integrantes
 
